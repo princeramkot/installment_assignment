@@ -1,0 +1,12 @@
+.animated-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #eaeaea;
+    transition: background-color 0.3s ease;
+  }
+  
+  .animated-button.hovered {
+    background-color: #ffcc00;
+  }
+  
